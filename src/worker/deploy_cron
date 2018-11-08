@@ -1,0 +1,1 @@
+0 1 * * * /usr/bin/ruby /CHANGE_PATH/scraper.rb >> /CHANGE_PATH/output.log
